@@ -1,0 +1,3 @@
+C:/Users/lxr/Desktop/TSR/cmake-build-debug-mingw/CMakeFiles/TSR.dir
+C:/Users/lxr/Desktop/TSR/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/lxr/Desktop/TSR/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
